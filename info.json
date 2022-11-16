@@ -14,7 +14,7 @@
    },  {"name": "Intro",
        "description": "Intro",
        "mediaUrl": "https://www.youtube.com/playlist?list=PLB6bMv8U3A-GryqFViDWGoyTqDH16uw0R",        
-        source": "youtube",
+        "source": "youtube",
        "link": "https://www.youtube.com/playlist?list=PLB6bMv8U3A-GryqFViDWGoyTqDH16uw0R"},
  ],
 "deleted":false,
@@ -29,6 +29,6 @@
 "tokenDescription":"CSAT token will be utilized as a medium to exchange energy within the CGD ecosystem and marketplace.",
 "tokenTradeLink":null,
 
-"tags":"Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech / Biopharma"
+"tags":"Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Biopharma"
   
 }
