@@ -2,7 +2,7 @@
 {"name":"CannabisGenomeDAO",
 "tokenSymbol":"$CSAT ",
 "DaoOS":"https://forum.cannabisgeno.me",
-"address":"",
+"address":null,
 "description":"Our mission is to incentivize participation in open-source cannabis genome research by forming a community that governs A) itself, B) sources of funding for scientific research, and C) the products and services it renders.",
 "whitePaperLink":"https://docs.google.com/document/d/182fZ2WIQCL15O0TbQmkaJFM8tci06czuuqTMzBl_-zs/edit#heading=h.9xab6remj2lw",
 "gallery":[{
@@ -13,20 +13,21 @@
        "link": "https://i.imgur.com/V7jkCff.jpg"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": "",        "source": "youtube",
-       "link": " https://www.youtube.com/playlist?list=PLB6bMv8U3A-GryqFViDWGoyTqDH16uw0R"  },
+       "mediaUrl": "https://www.youtube.com/playlist?list=PLB6bMv8U3A-GryqFViDWGoyTqDH16uw0R",        
+        source": "youtube",
+       "link": "https://www.youtube.com/playlist?list=PLB6bMv8U3A-GryqFViDWGoyTqDH16uw0R"},
  ],
-"Deleted":false,
+"deleted":false,
 "primaryColor":"#669fbb",
 "twitterHandle":"csatGenome",
-"coingeckoId":"",
+"coingeckoId":null,
 "snapshotId":"https://forum.cannabisgeno.me",
 "logo":"https://s3.amazonaws.com/charm.public/user-content/1fc195fe-13c2-41d0-9fb3-84fb324e0c28/6822cf6e-081d-4269-bc7b-f8ac2a9909e9/CGD-blank-logo.png",
-"telegramLink":"",
+"telegramLink":null,
 "discordLink":"https://t.me/+CSbOsCy8BjRmNzVh",
 "website":"https://cannabisgeno.me",
 "tokenDescription":"CSAT token will be utilized as a medium to exchange energy within the CGD ecosystem and marketplace.",
-"tokenTradeLink":"",
+"tokenTradeLink":null,
 
 "tags":"Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech / Biopharma"
   
